@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/BagInterface.h
+vector
+-
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Include.h
+iostream
+-
+string
+-
+vector
+-
+LinkedBag.cpp
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag.cpp
+LinkedBag340.cpp
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag340.cpp
+cstdlib
+-
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag.cpp
+cstddef
+-
+Node.h
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.h
+LinkedBag.h
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag.h
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag.h
+Node.cpp
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.cpp
+BagInterface.h
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/BagInterface.h
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag340.cpp
+LinkedBag.h
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBagClient340.cpp
+Include.h
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Include.h
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.cpp
+Node.h
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.h
+
+/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.h
+
