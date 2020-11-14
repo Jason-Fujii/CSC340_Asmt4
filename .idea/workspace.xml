@@ -11,7 +11,37 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bac82e39-4d88-45fd-972c-4135ff7ec333" name="Default Changelist" comment="" />
+    <list default="true" id="bac82e39-4d88-45fd-972c-4135ff7ec333" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/Include_SmartPointers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/LinkedBagClient_SmartPointers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/PartC_SmartPointers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/SPLinkedBag.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/SPLinkedBag.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/SPNode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartC_SmartPointers/SPNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BagInterface.h" beforeDir="false" afterPath="$PROJECT_DIR$/BagInterface.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedBag.h" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedBag.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedBag340.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedBag340.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedBagClient340.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedBagClient340.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_04_Code" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_04_Code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_04_Code.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_04_Code.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +51,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k7mGFT6HsKubjy9VnaUkXo7qQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +63,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PartC_SmartPointers" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Assignment_04_Code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assignment_04_Code" TARGET_NAME="Assignment_04_Code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Assignment_04_Code" RUN_TARGET_NAME="Assignment_04_Code">
@@ -63,6 +103,9 @@
       <updated>1605059907103</updated>
       <workItem from="1605059911298" duration="422000" />
       <workItem from="1605130480863" duration="20850000" />
+      <workItem from="1605224360504" duration="1050000" />
+      <workItem from="1605234487054" duration="3633000" />
+      <workItem from="1605309843989" duration="13687000" />
     </task>
     <servers />
   </component>
@@ -70,33 +113,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1605179425866">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1878" height="131" key="GridCell.Tab.0.bottom" timestamp="1605325036325">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605170585442" />
+    <state width="1878" height="131" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605325036325" />
     <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1605179425866" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605167007474" />
+    <state width="1878" height="131" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605319366579" />
+    <state width="1878" height="197" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.989@0.23.1440.877" timestamp="1605261731450" />
     <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.989@1440.23.1920.989" timestamp="1605172334619" />
-    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1605179425865">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1878" height="131" key="GridCell.Tab.0.center" timestamp="1605325036323">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605170585437" />
+    <state width="1878" height="131" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605325036323" />
     <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1605179425865" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605167007472" />
+    <state width="1878" height="131" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605319366577" />
+    <state width="1878" height="197" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.989@0.23.1440.877" timestamp="1605261731448" />
     <state width="1398" height="197" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.989@1440.23.1920.989" timestamp="1605172334618" />
-    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1605179425856">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1878" height="131" key="GridCell.Tab.0.left" timestamp="1605325036322">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605170585436" />
+    <state width="1878" height="131" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605325036322" />
     <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1605179425856" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605167007471" />
+    <state width="1878" height="131" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605319366576" />
+    <state width="1878" height="197" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.989@0.23.1440.877" timestamp="1605261731441" />
     <state width="1398" height="197" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.989@1440.23.1920.989" timestamp="1605172334618" />
-    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1605179425866">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1878" height="131" key="GridCell.Tab.0.right" timestamp="1605325036325">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605170585438" />
+    <state width="1878" height="131" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605325036325" />
     <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1605179425866" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605167007473" />
+    <state width="1878" height="131" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605319366578" />
+    <state width="1878" height="197" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.989@0.23.1440.877" timestamp="1605261731450" />
     <state width="1398" height="197" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.989@1440.23.1920.989" timestamp="1605172334619" />
     <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1605179425872">
       <screen x="0" y="23" width="1440" height="816" />
@@ -118,11 +165,12 @@
     </state>
     <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605162226553" />
     <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1605179425871" />
-    <state x="1969" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1605130487862">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1605309855998">
+      <screen x="0" y="23" width="1440" height="809" />
     </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.809/1440.23.1920.1057@1440.23.1920.1057" timestamp="1605309855998" />
     <state x="1969" y="334" key="com.intellij.ide.util.TipDialog/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1605130487862" />
-    <state x="397" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1605059911325" />
+    <state x="397" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1605224361053" />
     <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1605159815360">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>

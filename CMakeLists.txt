@@ -13,4 +13,12 @@ add_executable(Assignment_04_Code
     LinkedBag340.cpp
     LinkedBagClient340.cpp
     Node.cpp
-    Node.h)
+    Node.h
+        PartC_SmartPointers/PartC_SmartPointers.cpp
+        PartC_SmartPointers/SPLinkedBag.cpp
+        PartC_SmartPointers/SPLinkedBag.h
+        PartC_SmartPointers/Include_SmartPointers.h
+
+        PartC_SmartPointers/SPNode.cpp
+        PartC_SmartPointers/SPNode.h
+        )

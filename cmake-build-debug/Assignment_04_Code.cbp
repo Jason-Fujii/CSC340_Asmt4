@@ -106,6 +106,24 @@
 		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.h">
 			<Option target="Assignment_04_Code"/>
 		</Unit>
+		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/Include_SmartPointers.h">
+			<Option target="Assignment_04_Code"/>
+		</Unit>
+		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/PartC_SmartPointers.cpp">
+			<Option target="Assignment_04_Code"/>
+		</Unit>
+		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPLinkedBag.cpp">
+			<Option target="Assignment_04_Code"/>
+		</Unit>
+		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPLinkedBag.h">
+			<Option target="Assignment_04_Code"/>
+		</Unit>
+		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPNode.cpp">
+			<Option target="Assignment_04_Code"/>
+		</Unit>
+		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPNode.h">
+			<Option target="Assignment_04_Code"/>
+		</Unit>
 		<Unit filename="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

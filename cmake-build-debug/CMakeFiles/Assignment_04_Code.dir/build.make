@@ -109,12 +109,54 @@ CMakeFiles/Assignment_04_Code.dir/Node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_04_Code.dir/Node.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.cpp" -o CMakeFiles/Assignment_04_Code.dir/Node.cpp.s
 
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: CMakeFiles/Assignment_04_Code.dir/flags.make
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: ../PartC_SmartPointers/PartC_SmartPointers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o -c "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/PartC_SmartPointers.cpp"
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/PartC_SmartPointers.cpp" > CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.i
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/PartC_SmartPointers.cpp" -o CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.s
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: CMakeFiles/Assignment_04_Code.dir/flags.make
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: ../PartC_SmartPointers/SPLinkedBag.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o -c "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPLinkedBag.cpp"
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPLinkedBag.cpp" > CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.i
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPLinkedBag.cpp" -o CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.s
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o: CMakeFiles/Assignment_04_Code.dir/flags.make
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o: ../PartC_SmartPointers/SPNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o -c "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPNode.cpp"
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPNode.cpp" > CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.i
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPNode.cpp" -o CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.s
+
 # Object files for target Assignment_04_Code
 Assignment_04_Code_OBJECTS = \
 "CMakeFiles/Assignment_04_Code.dir/LinkedBag.cpp.o" \
 "CMakeFiles/Assignment_04_Code.dir/LinkedBag340.cpp.o" \
 "CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o" \
-"CMakeFiles/Assignment_04_Code.dir/Node.cpp.o"
+"CMakeFiles/Assignment_04_Code.dir/Node.cpp.o" \
+"CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o" \
+"CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o" \
+"CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o"
 
 # External object files for target Assignment_04_Code
 Assignment_04_Code_EXTERNAL_OBJECTS =
@@ -123,9 +165,12 @@ Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/LinkedBag.cpp.o
 Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/LinkedBag340.cpp.o
 Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o
 Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/Node.cpp.o
+Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o
+Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o
+Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o
 Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/build.make
 Assignment_04_Code: CMakeFiles/Assignment_04_Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Assignment_04_Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Assignment_04_Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Assignment_04_Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

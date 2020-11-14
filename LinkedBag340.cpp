@@ -6,6 +6,7 @@ using namespace std;
 #include <cstdlib>
 #include <ctime>
 
+
 //Deletes the second node in the Linked Bag
 template<typename ItemType>
 bool LinkedBag<ItemType>::removeSecondNode340()
@@ -26,6 +27,7 @@ bool LinkedBag<ItemType>::removeSecondNode340()
     }
     return removed;
 }
+
 
 //Inserts the new node at the end of the Linked Bag
 template<typename ItemType>
@@ -86,18 +88,13 @@ int LinkedBag<ItemType>::getCurrentSize340Recursive() const
 //Counts the number of nodes in the Linked Bag recursively. This recursive function DOES NOT use any helper functions
 template<typename ItemType>
 int LinkedBag<ItemType>::getCurrentSize340RecursiveNoHelper() const {
-     int numItems = 0;
-     auto* newHead = headPtr;
-     if(headPtr->getNext() == nullptr) {
-         headPtr = newHead;
-         numItems++;
-         return numItems;
+     static auto* currPtr = headPtr;
+     if(currPtr->getNext() == nullptr) {
+         return 1;
      } else{
-         numItems++;
-         headPtr = headPtr->getNext();
-         getCurrentSize340RecursiveNoHelper();
+         currPtr = currPtr->getNext();
+         return 1 + getCurrentSize340RecursiveNoHelper();
      }
-     return numItems;
 }
 
 //Recursively counts the number of times an entry appears in the Linked Bag. Helper function to getFrequencyOf340Recursive()
@@ -133,7 +130,30 @@ int LinkedBag<ItemType>::getFrequencyOf340Recursive(const ItemType & item) const
 //Recursively counts the number of times an entry appears in the Linked Bag. This recursive function DOES NOT use any helper functions
 template<typename ItemType>
 int LinkedBag<ItemType>::getFrequencyOf340RecursiveNoHelper(const ItemType & item) const {
-
+    static auto* currPtr = headPtr;
+    if(currPtr->getNext() == nullptr)
+    {
+        if(typeid(currPtr->getItem()) == typeid(item)){
+            if (currPtr->getItem().compare(item) == 0) {
+                currPtr = headPtr;
+                return 1;
+            } else {
+                currPtr = headPtr;
+                return 0;
+            }
+        }
+    } else{
+        if(typeid(currPtr->getItem()) == typeid(item))
+        {
+            if (currPtr->getItem().compare(item) == 0) {
+                currPtr = currPtr->getNext();
+                return 1 + getFrequencyOf340RecursiveNoHelper(item);
+            } else {
+                currPtr = currPtr->getNext();
+                return 0 + getFrequencyOf340RecursiveNoHelper(item);
+            }
+        }
+    }
 }
 
 //Removes a random entry from the Linked Bag
@@ -200,3 +220,4 @@ ItemType LinkedBag<ItemType>::removeRandom340() {
 //    }
 //    cout << currPtr << endl;
 //}
+

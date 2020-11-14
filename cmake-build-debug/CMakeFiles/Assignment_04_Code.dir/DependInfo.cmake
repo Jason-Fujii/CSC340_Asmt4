@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBag340.cpp" "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/LinkedBag340.cpp.o"
   "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/LinkedBagClient340.cpp" "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o"
   "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/Node.cpp" "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/Node.cpp.o"
+  "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/PartC_SmartPointers.cpp" "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o"
+  "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPLinkedBag.cpp" "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o"
+  "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/PartC_SmartPointers/SPNode.cpp" "/Users/jasonfujii/Desktop/Code/CSC340 - Programming Methodology/Assignment-04-Code/cmake-build-debug/CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

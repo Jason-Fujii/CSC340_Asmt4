@@ -5,6 +5,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Assignment_04_Code.dir/LinkedBag340.cpp.o"
   "CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o"
   "CMakeFiles/Assignment_04_Code.dir/Node.cpp.o"
+  "CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o"
+  "CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o"
+  "CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

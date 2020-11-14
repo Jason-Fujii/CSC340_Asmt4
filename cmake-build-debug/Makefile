@@ -231,6 +231,87 @@ Node.cpp.s:
 	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/Node.cpp.s
 .PHONY : Node.cpp.s
 
+PartC_SmartPointers/PartC_SmartPointers.o: PartC_SmartPointers/PartC_SmartPointers.cpp.o
+
+.PHONY : PartC_SmartPointers/PartC_SmartPointers.o
+
+# target to build an object file
+PartC_SmartPointers/PartC_SmartPointers.cpp.o:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o
+.PHONY : PartC_SmartPointers/PartC_SmartPointers.cpp.o
+
+PartC_SmartPointers/PartC_SmartPointers.i: PartC_SmartPointers/PartC_SmartPointers.cpp.i
+
+.PHONY : PartC_SmartPointers/PartC_SmartPointers.i
+
+# target to preprocess a source file
+PartC_SmartPointers/PartC_SmartPointers.cpp.i:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.i
+.PHONY : PartC_SmartPointers/PartC_SmartPointers.cpp.i
+
+PartC_SmartPointers/PartC_SmartPointers.s: PartC_SmartPointers/PartC_SmartPointers.cpp.s
+
+.PHONY : PartC_SmartPointers/PartC_SmartPointers.s
+
+# target to generate assembly for a file
+PartC_SmartPointers/PartC_SmartPointers.cpp.s:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.s
+.PHONY : PartC_SmartPointers/PartC_SmartPointers.cpp.s
+
+PartC_SmartPointers/SPLinkedBag.o: PartC_SmartPointers/SPLinkedBag.cpp.o
+
+.PHONY : PartC_SmartPointers/SPLinkedBag.o
+
+# target to build an object file
+PartC_SmartPointers/SPLinkedBag.cpp.o:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o
+.PHONY : PartC_SmartPointers/SPLinkedBag.cpp.o
+
+PartC_SmartPointers/SPLinkedBag.i: PartC_SmartPointers/SPLinkedBag.cpp.i
+
+.PHONY : PartC_SmartPointers/SPLinkedBag.i
+
+# target to preprocess a source file
+PartC_SmartPointers/SPLinkedBag.cpp.i:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.i
+.PHONY : PartC_SmartPointers/SPLinkedBag.cpp.i
+
+PartC_SmartPointers/SPLinkedBag.s: PartC_SmartPointers/SPLinkedBag.cpp.s
+
+.PHONY : PartC_SmartPointers/SPLinkedBag.s
+
+# target to generate assembly for a file
+PartC_SmartPointers/SPLinkedBag.cpp.s:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.s
+.PHONY : PartC_SmartPointers/SPLinkedBag.cpp.s
+
+PartC_SmartPointers/SPNode.o: PartC_SmartPointers/SPNode.cpp.o
+
+.PHONY : PartC_SmartPointers/SPNode.o
+
+# target to build an object file
+PartC_SmartPointers/SPNode.cpp.o:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o
+.PHONY : PartC_SmartPointers/SPNode.cpp.o
+
+PartC_SmartPointers/SPNode.i: PartC_SmartPointers/SPNode.cpp.i
+
+.PHONY : PartC_SmartPointers/SPNode.i
+
+# target to preprocess a source file
+PartC_SmartPointers/SPNode.cpp.i:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.i
+.PHONY : PartC_SmartPointers/SPNode.cpp.i
+
+PartC_SmartPointers/SPNode.s: PartC_SmartPointers/SPNode.cpp.s
+
+.PHONY : PartC_SmartPointers/SPNode.s
+
+# target to generate assembly for a file
+PartC_SmartPointers/SPNode.cpp.s:
+	$(MAKE) -f CMakeFiles/Assignment_04_Code.dir/build.make CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.s
+.PHONY : PartC_SmartPointers/SPNode.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -252,6 +333,15 @@ help:
 	@echo "... Node.o"
 	@echo "... Node.i"
 	@echo "... Node.s"
+	@echo "... PartC_SmartPointers/PartC_SmartPointers.o"
+	@echo "... PartC_SmartPointers/PartC_SmartPointers.i"
+	@echo "... PartC_SmartPointers/PartC_SmartPointers.s"
+	@echo "... PartC_SmartPointers/SPLinkedBag.o"
+	@echo "... PartC_SmartPointers/SPLinkedBag.i"
+	@echo "... PartC_SmartPointers/SPLinkedBag.s"
+	@echo "... PartC_SmartPointers/SPNode.o"
+	@echo "... PartC_SmartPointers/SPNode.i"
+	@echo "... PartC_SmartPointers/SPNode.s"
 .PHONY : help
 
 

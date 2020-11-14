@@ -25,3 +25,18 @@ CMakeFiles/Assignment_04_Code.dir/LinkedBagClient340.cpp.o: ../Node.h
 CMakeFiles/Assignment_04_Code.dir/Node.cpp.o: ../Node.cpp
 CMakeFiles/Assignment_04_Code.dir/Node.cpp.o: ../Node.h
 
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: ../BagInterface.h
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: ../PartC_SmartPointers/PartC_SmartPointers.cpp
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: ../PartC_SmartPointers/SPLinkedBag.h
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: ../PartC_SmartPointers/SPNode.cpp
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/PartC_SmartPointers.cpp.o: ../PartC_SmartPointers/SPNode.h
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: ../BagInterface.h
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: ../PartC_SmartPointers/SPLinkedBag.cpp
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: ../PartC_SmartPointers/SPLinkedBag.h
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: ../PartC_SmartPointers/SPNode.cpp
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPLinkedBag.cpp.o: ../PartC_SmartPointers/SPNode.h
+
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o: ../PartC_SmartPointers/SPNode.cpp
+CMakeFiles/Assignment_04_Code.dir/PartC_SmartPointers/SPNode.cpp.o: ../PartC_SmartPointers/SPNode.h
+
